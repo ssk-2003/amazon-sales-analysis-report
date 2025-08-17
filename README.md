@@ -6,18 +6,19 @@ It includes raw data analysis in **Excel** and a detailed **PDF report** with in
 ---
 
 ## 📂 Files
-- `Amazon_Sales_Data.xlsx` → Raw dataset + pivot tables + charts
-- `Amazon_Sales_Analysis_Report_SatishKumarSingilese.pdf` → Final report
-- `README.md` → Documentation
+- [📘 Amazon_Sales_Data.xlsx](Amazon_Sales_Data.xlsx) → Raw dataset + pivot tables + charts  
+- [📄 Amazon_Sales_Analysis_Report_SatishKumarSingilese.pdf](Amazon_Sales_Analysis_Report_SatishKumarSingilese.pdf) → Final report
+- [📊 Amazon_Raw_Sales_Data.csv](Amazon_Raw_Sales_Data.csv) → Raw sales dataset (transactions)  
+- [📝 README.md](README.md) → Documentation  
 
 ---
 
 ## 🔍 Key Insights
-- **Top Products:** T-shirts, Shirts, Blazers drive most revenue.
-- **Top Cities:** Bengaluru, Hyderabad, Mumbai, New Delhi, Chennai.
-- **Sales Trend:** Peak in April, lowest in March.
-- **Fulfillment:** Easy Ship fulfilled 37,464 orders worth ₹24.2M.
-- **Issues:** 5,124 orders cancelled, 1,946 returned.
+- **Top Products:** T-shirts, Shirts, Blazers drive most revenue.  
+- **Top Cities:** Bengaluru, Hyderabad, Mumbai, New Delhi, Chennai.  
+- **Sales Trend:** Peak in April, lowest in March.  
+- **Fulfillment:** Easy Ship fulfilled 37,464 orders worth ₹24.2M.  
+- **Issues:** 5,124 orders cancelled, 1,946 returned.  
 
 ---
 
@@ -32,10 +33,8 @@ It includes raw data analysis in **Excel** and a detailed **PDF report** with in
 ---
 
 ## 🛠️ Tools Used
-- **Excel** → Data cleaning, pivot tables, visualization   
-- **Report Writing** → Business insights
-
--   
+- **Excel** → Data cleaning, pivot tables, visualization  
+- **Word** → Report Writing
 
 ---
 
@@ -43,4 +42,3 @@ It includes raw data analysis in **Excel** and a detailed **PDF report** with in
 **Satish Kumar Singilese**  
 satishkumarcse2003@gmail.com
 Data Analyst | AI & Data Science Graduate  
-
